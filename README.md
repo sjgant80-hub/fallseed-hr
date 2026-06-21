@@ -103,3 +103,8 @@ Click **Download fallseed-{vertical}-v1.html** and you have a complete new PWA s
 ## Licence
 
 MIT · Simon Gant · prime 1049 · ◊·κ=1.
+
+
+## What kind of seed is this?
+
+A **level-0** seed in the FallSeed family. Built on the Fork Seed primitive — see [the spec](https://www.ai-nativesolutions.com/spec.html) for the four invariants of replication, the SEED schema, and the six-step fork protocol that every conforming seed implements.
