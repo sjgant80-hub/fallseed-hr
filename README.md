@@ -84,7 +84,7 @@ Click **Download fallseed-{vertical}-v1.html** and you have a complete new PWA s
 |---|---|---|
 | Storage | IndexedDB (per tool) | yes — data never leaves device |
 | Mesh | BroadcastChannel (`fall-hr`) | yes — in-browser only |
-| Audit | Mansoor P3 chain (prevHash + SHA-256) | yes — verifiable locally |
+| Audit | P3 chain (prevHash + SHA-256) | yes — verifiable locally |
 | LLM | T1 → T2 → T3-free → T3-paid cascade | T1/T2 fully sovereign; T3 your choice |
 | UI | Single HTML, no framework, no build step | yes — fork or read the source |
 | PWA | Inline manifest (data: URL) | yes — no separate manifest file |
