@@ -57,7 +57,7 @@ Eight providers across four tiers. The cascade tries them in priority order, ski
 | T3 (free cloud) | OpenRouter free | free | 200 req/day · multiple free models |
 | T3 (free cloud) | Google AI Studio | free | Gemini 2.5 Flash · 1M tokens/day free |
 | T3 (free cloud) | Cerebras | free | Llama 3.3 70B at ~2200 tok/sec |
-| T3 (paid) | Anthropic | ~£0.03/tool | Claude Sonnet 4 · best codegen quality |
+| T3 (paid) | Anthropic | ~TBA/tool | Claude Sonnet 4 · best codegen quality |
 
 **Your key, your bill, your bandwidth.** Each LLM call goes browser → that provider's API directly. No intermediary server. Keys live in your browser's IndexedDB only.
 
